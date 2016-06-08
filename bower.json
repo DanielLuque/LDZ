@@ -1,0 +1,20 @@
+{
+  "name": "LDZ",
+  "homepage": "https://github.com/DanielLuque/myRemote",
+  "authors": [
+    "Daniel <daniel.luqx@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.1.0"
+  }
+}

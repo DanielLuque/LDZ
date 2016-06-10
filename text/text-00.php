@@ -1,148 +1,166 @@
-<?php include('../php/header.php');?>
+<?php include_once('../php/header.php');?>
 <?php include_once('../php/nav.php'); ?>
+<?php include_once('../php/titles.php'); ?>
 
-<div class="wrapper">
-  <div class="padder">
-    <div id='chapter-00' class='h1'>
-  	<p style='font-family: "PT Mono";text-align:center; color:#111;'>
-  	    	CAPITULO 00.
-  	</p>
-    </div>
+<!-- INTRO MESSAGE -->
 
-    <br></br>
-    <h6><a href='../'>atras</a></h6>
-    <div style='background-color:#044A49; padding:10px;'id='code-chapter-00'>
-        <code>
-        _INIT_<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;INCLUDE dim;<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;DEFINE max_time(0);<br>
-        FUNCTION ANONYM ():::<br>
-        IF(var i > %d)<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RETURN true;<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EXIT;
-        </code>
-    </div>
-    <div class='text-center'>
-    	<div class='script-intro'>
-    	    <br><br>
-        <p class='text-justify' style='color: black;'>
-            En el principio de todo y antes que nada, cuando las cosas todavía
-            no eran lo que son ni habían sido lo que fueron, flotaba una masa en el universo,
-            en el espacio exterior, como una enorme bola de agua.<br><br>
-            No había arriba ni abajo, ni derecha ni izquierda. No existía frío ni calor, ni tiempo ni espacio.
-            Todo estaba vacío y relleno de nada, excepto por una especie de masa sin forma que fluía y ondeaba
-            sobre sí misma, como una enorme bola de agua.
-        </p>
-
-    <p class='text-justify' style:'font-family: "Playfair Display", serif;'>
-
-       La presunta bola de agua se movía sobre sí misma con la gracia de una
-        anciana bailarina, cual vanidosa actriz frente al espejo.
-    <br>
-    <br>
-
-        Un día, habiendo transcurrido infinitos universos de tiempo y de movimientos sutiles como
-        la caída de una hoja, la masa que se movía como gelatina, suspendida en el cosmos, hizo un
-        movimiento que hasta el momento no había hecho, entrando en una nueva y singular configuración.
-    <div class='illustration'>
-
-         <img class='img-responsive'
-        src='https://lh4.googleusercontent.com/Bal4BAs3GJFHQaysP6okZDXsIkdYuYaF8h3sQQIlo5DlP-3P4au8zth4ZeAyZRZaRrBzWzHk9g5kr9QIoKeeS5bXrxhYz8WMXj9TD7a3TBNtLcBO8yOP5XAENDPANb7Lt9o1vDY'>
-
-    </div>
+<div class='text-center intro-msg'>
+  <p class='text-justify' style='color: black;'>
+    <p>En el principio de todo y antes que nada, <br />
+      cuando las cosas todav&iacute;a&nbsp;no eran lo que son <br />
+      <br />ni hab&iacute;an sido lo que fueron, <br />
+      <br />flotaba una enorme masa en el universo,<br />
+      <br />en el espacio exterior, como una bola de agua.<br />
+      <br />No hab&iacute;a arriba ni abajo, ni derecha ni izquierda. <br />
+      <br />No exist&iacute;a tiempo ni espacio, ni fr&iacute;o ni calor.<br />
+      <br />Todo estaba vac&iacute;o y relleno de nada, <br />
+      <br />excepto por una especie de masa sin forma que flu&iacute;a <br />
+      <br />y ondeaba&nbsp;sobre s&iacute; misma, <br />
+      <br />como una enorme bola de agua.
     </p>
+  </p>
+</div>
+
+<!-- ./INTRO MESSAGE -->
+
+<!--  PARAGRAF 00   -->
+  <div class='paragraf-00'>
+    <p>La presuntuosa bola se mov&iacute;a con la
+      gracia de una anciana bailarina,</p>
+    <p>cual vanidosa actriz</p>
+    <p>frente al espejo.</p>
+    <br/>
+    <p>Un d&iacute;a, despu&eacute;s de infinitos universos de tiempo</p>
+    <p>y de movimientos sutiles como&nbsp;la ca&iacute;da de una hoja,</p>
+    <p>la masa que se mov&iacute;a como gelatina, suspendida en el cosmos,</p>
+    <p>hizo un&nbsp;movimiento extraño que hasta el momento no hab&iacute;a hecho,</p>
+    <p>entrando en una nueva y singular configuraci&oacute;n.</p>
+  </div>
+<!--  0   -->
+
+  <div class='paragraf-00'>
     <p class='text-justify'>
-        <br>
-        <br>
-            En los extremos de su nuevo estado, dos figuras independientes se desprendieron de la masa:
-            Una positiva y una negativa.
-        <br>
-        <br>
-            Esas dos figuras, a su vez, se dividieron por la mitad, dando lugar en total a cuatro elementos
-            o figuras, iguales y opuestas, que se separaron de la masa primordial.
-        <br>
-        <br>
-            Las cuatro figuras se alejaron de la masa y se alejaron entre sí, para no volverse a encontrar
-            durante mucho tiempo.
-        <br>
-        <br>
-            La masa primordial, que en algún momento de la historia fue llamada
-            "el primer motor", continuó moviéndose sobre sí misma y por el espacio.
-        <br>
-        <br>
-            Habiendo generado las cuatro figuras primitivas, el primer motor aumenó
-            notoriamente su ritmo y su cuerpo gelatinoso "vomitó" nuevas figuras, a las cuales los
-            ancianos sabios de la antigüedad llamaron "galaxias" y "estrellas".
-        <br>
-        <br>
-            Los Cuatro Espíritus o Formas Primitivas, también conocidas bajo los nombres
-            de Siddhartha, Lao Tse, Vishnú y Zoroastro, se esparcieron por el universo.
+      <p>En los extremos de su nuevo estado, dos figuras independientes se
+        desprendieron de la masa:</p>
+      <p>Una positiva y una negativa. <br />
+      <br />Esas dos figuras, a su vez, se dividieron por la mitad, dando lugar
+      en total a cuatro elementos o figuras, iguales pero&nbsp;opuestas. <br />
+      <br />Las cuatro figuras se alejaron de la masa y se alejaron entre
+      s&iacute;, para no volverse a encontrar durante mucho tiempo. <br />
+      <br />La bola de agua, que en alg&uacute;n momento de la historia fue
+      llamada "el primer motor", continu&oacute; movi&eacute;ndose sobre
+      s&iacute; misma y al trav&eacute;s&nbsp;del espacio. </p>
+      <p>&nbsp;</p>
+      <p><br />Habiendo generado las cuatro figuras primitivas,</p>
+      <p>el primer motor aumen&oacute; notoriamente su ritmo</p>
+      <p>y su cuerpo gelatinoso</p>
+      <p>"vomit&oacute;" nuevas figuras,</p>
+      <p>que en la&nbsp;antig&uuml;edad llamaron "galaxias" y "estrellas".</p>
+      <hr /><hr />
+      <p><br /><br />Los Cuatro Esp&iacute;ritus o Formas Primitivas,
+        tambi&eacute;n conocidas bajo los nombres de</p>
+    </div>    
+      <!--  INTRO NAMES -->
 
-            Caminaron y
-            saltaron por los planetas,
-            mientras el primer motor continuaba generando asteroides, planetas y cadenas
-            de meteoritos.
+      <div class='intro-names'>
+        <span style='font-family:Helvetica'>Siddhartha</span>
+        <span style='font-family: Arial'>Lao Ts&eacute;</span>
+        <span style='font-family: Georgia'>Zoroastro</span> &
+        <span style='font-family: Verdana'>Vishn&uacute;</span>
+      </div>
 
-        <br>
-        <br>
+      <!--  ./INTRO NAMES -->
 
-            Dentro de una pequeña galaxia llamada “Vía Láctea“, alrededor de una pequeña
-            estrella llamada
-            “Sol“, orbitaba un pequeño planeta llamado “Tierra“.
-            En este pequeño planeta, grandes
-            cantidades de Hidrógeno y de Oxígeno se unieron formando los mares.
-            Dado que la órbita del pequeño planeta sobre su estrella le
-            permitía mantener una temperatura uniforme, el agua pudo permanecer constantemente
-            en estado líquido.
+      <p>se esparcieron por el universo.</p>
+      <p>Caminaron y saltaron por los planetas, mientras el primer motor
+        continuaba generando <a href='#'>asteroides</a>, planetas y cadenas
+        de meteoritos. <br />
+        <br />Dentro de una peque&ntilde;a galaxia llamada</p>
+      <p>&ldquo;V&iacute;a L&aacute;ctea&ldquo;,</p>
+      <p>alrededor de una peque&ntilde;a estrella llamada</p>
+      <p>&ldquo;Sol&ldquo;,</p>
+      <p>orbitaba un peque&ntilde;o planeta llamado</p>
+      <p>&ldquo;Tierra&ldquo;.</p>
+      <p>&nbsp;</p>
+      <p>La peculiar orbita de este peque&ntilde;o planeta sobre su estrella le
+        permit&oacute; mantener una buena temperatura para mantener</p>
+      <p>el agua en estado l&iacute;quido.</p>
+      <p>Grandes cantidades de <a href='#'>Hidr&oacute;geno</a> e&nbsp;
+        <a href='#'>Ox&iacute;geno</a> se unieron formando los <em>mares</em>.</p>
+      <p><br /><br />El planeta se mov&iacute;a sobre s&iacute; mismo,</p>
+      <p>dentro de s&iacute; mismo,</p>
+      <p>alrededor de su peque&ntilde;a estrella &nbsp;</p>
+      <p>y por el espacio infinito</p>
 
-        <br>
-        <br>
-            El planeta se movía sobre sí mismo, dentro de sí mismo, alrededor de su pequeña
-            estrella llamada
-            “Sol" y por el infinito espacio. Todo este movimiento provocó la concentración de grandes
-            cuerpos de agua en determinados puntos y, dejando al descubierto rocas y arena seca
-            en otras partes de la
-            superficie de la esfera, dió origen a las islas, a las costas y a los continentes.
+      <!-- GIF EARTH -->
+      <div id="content" class="container_12">
+        <div id="gif-detail" class="gif-detail grid_10">
+          <div id="gif-wrap" class="gif-wrap grid_10">
+            <div class="gif-figure-container">
+              <div class="gif-figure-wrapper">
+                <figure class="gif-figure">
+                  <a href="http://splurt.tumblr.com/post/46045634002" target="_blank" rel="nofollow">
+                    <img id="gif" class="a-gif img-responsive" src="https://media.giphy.com/media/iMMfCfD9TLuCY/giphy.gif"
+                    alt="earth animation animated gif animation" width="500" height="282"
+                    data-original-width="500" data-original-height="282" data-padding-top="84" data-id="iMMfCfD9TLuCY"
+                    data-image_url="https://media.giphy.com/media/iMMfCfD9TLuCY/giphy.gif"
+                    data-bitly_gif_url="http://gph.is/1iE0eTU" data-mp4_url="https://media.giphy.com/media/iMMfCfD9TLuCY/giphy.mp4"
+                    data-still="https://media.giphy.com/media/iMMfCfD9TLuCY/giphy_s.gif"
+                    data-preview-image-url="https://media.giphy.com/media/iMMfCfD9TLuCY/100.gif"
+                    data-tumblr_share_url="https://media.giphy.com/media/iMMfCfD9TLuCY/giphy-tumblr.gif"
+                    data-gif_id="iMMfCfD9TLuCY" data-absolute-url="/gifs/animation-animated-earth-iMMfCfD9TLuCY"
+                    data-edit-url="/gifs/animation-animated-earth-iMMfCfD9TLuCY/edit" /></a>
+                </figure>
+              <div class="gif-hover">&nbsp;</div>
+              </div>
+            </div>
+            <div class="gif-source">
+            <div class="source"><strong class="source-label">SOURCE</strong>
+              <a class="source-link" href="http://splurt.tumblr.com/post/46045634002"
+                target="_blank" rel="nofollow">SPLURT.TUMBLR.COM</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.GIF EARTH -->
 
-        <br>
-        <br>
-
-            En los bordes del agua y de la tierra, en las costas donde la marea subía y bajaba,
-            las olas golpeaban las rocas
-            formando delicadas burbujas, manteniendo el ritmo sin metrónomo, y fué en éstas mismas costas,
-            el gran laboratorio, donde el carbono, el hidrógeno y el oxígeno se unieron, tocaron, rozaron
-            y sumergieron de mil formas, dando como resultado el nacimiento de la primeras
-            moléculas que formaron una pequeña forma de vida.
-
-        <br>
-        <br>
-
-            Atraídos por tan espectacular evento, los cuatro espíritus primitivos aterrizaron en el
-            planeta Tierra y contemplaron fascinados cómo crecía la primera célula.
-
-         <br>
-         <br>
+      <p>Todo este movimiento hizo que el agua se hiciera grande en algunos
+        puntos, y peque&ntilde;a en otros.&nbsp;</p>
+      <p>Tan peque&ntilde;a que a veces</p>
+      <p>por las tardes</p>
+      <p>dejaba mostrar islas y contintentes</p>
+      <p><br />En los bordes del agua y de la tierra,</p>
+      <p>en las costas</p>
+      <p>donde la marea sub&iacute;a y bajaba,</p>
+      <p>las olas golpeaban las rocas,</p>
+      <p>crec&iacute;an sutiles&nbsp;burbujas,</p>
+      <p>manteniendo el ritmo sin metr&oacute;nomo,</p>
+      <p>y fu&eacute; en &eacute;stas mismas costas,</p>
+      <p>el gran laboratorio,</p>
+      <p>donde el carbono, el hidr&oacute;geno y el ox&iacute;geno se unieron,
+        tocaron, rozaron y sumergieron de mil formas, haciendo nacer
+        las&nbsp;primeras <span style="text-decoration: underline;">
+          <strong><em>mol&eacute;culas</em></strong></span>. <br />
+          <br />Atra&iacute;dos por tan espectacular evento, los Cuatro
+          Ep&iacute;ritus Primitivos</p>
+      <p>aterrizaron en el planeta y contemplaron fascinados</p>
+      <p>c&oacute;mo crec&iacute;a la primera c&eacute;lula. </p>
 
     </p>
 
+    <!-- DIALOGUE 01 -->
         <blockquote class='quote-vishnu'>
-
-        <footer>
-
-             Aquel quien respondía al nombre de Vishnú, el más atento de los cuatro, fué el
-             primero en comentar:
-
-        </footer>
-
-
-            <p>
-               “Esto no pinta nada bien. Seguramente se trata de una suciedad.
-               Creo que debemos arrojarla en el
-               espacio para
-               que no contamine“.
-            </p>
+          <footer>
+               Aquel quien respondía al nombre de Vishnú, <br>
+               el más atento de los cuatro, <br>
+               fué el primero en comentar: <br>
+          </footer>
+          <p>
+                 “ Miren, una suciedad.<br />
+                 Lo mejor será arrojarla en el espacio <br />
+                 para que no contaminea los demas.<br />
+          </p>
         </blockquote>
-
         <blockquote class='quote-laoTse'>
             <p>
              “Si el primer motor ha traído esto hasta aquí no ha sido por
@@ -158,10 +176,8 @@
         </blockquote>
         <br>
         <br>
-
         <img class='img-responsive col-sm-12'
         src='http://blogfiles.wfmu.org/KF/2015/11/25/satanic_somersault_TOO_BIG.gif'/>
-
         <br>
         <br>
         <p class='text-justify'>
@@ -273,8 +289,6 @@
             </footer>
         </blockquote>
 
-
-
         <blockquote class='quote-zoroastro'>
             “No lo puedo negar: Los humanos es algo que me preocupa"
             <br>
@@ -294,8 +308,6 @@
             bosques, secando ríos y mares, moviendo montañas, ¿Hasta cuándo vamos a tolerarlo?
             ¿En verdad queremos ver cómo un simple simio lampiño nos arrebata este planeta? ".
         </blockquote>
-
-
 
         <blockquote class='quote-laoTse'>
             <footer>Lao Tse soltó una carcajada:</footer>
@@ -389,5 +401,5 @@
     <br>
 </div>
 </div>
-</body>
+
 <?php include('../php/footer.php');?>

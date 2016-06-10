@@ -1,8 +1,8 @@
-
 <body>
 <main>
+<div class="container-fluid">
 <nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container-fluid">
+<!--  <div class="container-fluid"> -->
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -34,7 +34,7 @@
             <li><a href='../text/text-05.php'> 05.
             LOS PACTOS DE SILENCIO.</a></li>
             <li><a href='../text/text-06.php'> VI.
-            01110010 01100001 01101110 01100100 01101111 01101101. -
+            01110010 01100001 01101110 01100100 01101111 01101101
             </a></li>
             <li><a href='../text/text-07.php'> 07.
             TERMINAL DE RAÌZ EN OMEGA.</a></li>
@@ -56,17 +56,18 @@
             DIALOGO ENTRE CEREBRO Y CORAZÓN.</a></li>
             <li><a href='../text/text-16.php'> 16.
             SECUESTRO Y RESCATE.</a></li>
-            <li><a href='../text/text-17.php'> 19.
+            <li><a href='../text/text-17.php'> 17.
             HERVE EN EL BOSQUE.</a></li>
-            <li><a href='../text/text-18.php'> 17.
+            <li><a href='../text/text-18.php'> 18.
             BATALLA DEL SISTEMA CONTRA EL MUNDO DE LOS SUEÑOS (BATALLA FINAL).</a></li>
-            <li><a href='../text/text-19.php'> 20.
+            <li><a href='../text/text-19.php'> 19.
             PEQUEÑO COMPOSITOR EN RE MENOR.</a></li>
-            <li><a href='../text/text-20.php'> 18.
+            <li><a href='../text/text-20.php'> 20.
             DOMINGO POR LA TARDE.</a></li>
           </ul>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
+  <!--</div> /.container-fluid -->
+
 </nav>

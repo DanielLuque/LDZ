@@ -10,6 +10,7 @@
 </div>
 
 <div class="container-fluid">
+<<<<<<< HEAD
 Saul llegó tarde a clase. Era el típico estudiante silencioso del que se hablan
 muchas cosas y se termina creando una persona más grande de lo que en verdad es.
 
@@ -37,6 +38,9 @@ Instintivamente echó una ojeada a Marina, la risueña chica que le hacía suspi
 
 
  Saul se despertó temblando y sudoroso.
+=======
+  Saul se despertó temblando y sudoroso.
+>>>>>>> cda526645914d341ce5d68809fcd5da7fa85cd48
  El tenue recuerdo de su pesadilla no se borró de su cuerpo incluso cuando
  constató que no había ninguna amenaza real y todo se trataba de un sueño.
 

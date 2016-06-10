@@ -1,17 +1,15 @@
 <?php require_once("php/header.php");?>
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
-  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-  <link rel="stylesheet" href="/resources/demos/style.css">
-  <style>
+<?php include_once("php/nav.php");?>
+
+<style>
   #draggable { width: auto; height: auto; padding: 0em; }
-  </style>
-  <script>
+</style>
+<script>
   $(function() {
     $( "#draggable" ).draggable();
   });
-  </script>
-<link rel="stylesheet" href="css/LDZ-styles.css"type="text/css">
+</script>
+
 	<div class='container'>
 			<div class='col-sm-12'>
 				<div class='col-xs-offset-3 ui-widget-content' id="draggable">
@@ -32,6 +30,7 @@
 			<img src="images/mouth.png" class="responsive col-xs-8"/>
 		</div>
 	</div>
+  <!-- GRID! -->
 	<div class="container col-xs-offset-3">
 			<div class="row ">
 			  <div class="col-sm-3">
@@ -78,9 +77,10 @@
 				</div>
 			</div>
 		</div>
-		<div class="container">
 
-		<script>
+    <!--    ./GRID    -->
+    <div class="container">
+    <script>
 			$("p").hover(function(){
 	    $(this).css("background-color", "yellow");
 	    }, function(){
@@ -93,17 +93,17 @@
   		$(this).css("color", "blue");
   	});
 
+   </script>
 
-	</script>
-			<p class="bg-primary">
-			    Corre en cualquier sistema con un mínimo de 128KB de memoria.  				<br/>
-					En todo caso, un desfibrilador funcional en buenas condiciones.  			<br/>
-					Para los robots entre ustedes, los pointers y direcciones las pueden encontrar  <br/>
-					en la pendiente de la recta tangente para el punto medio de una curva.  <br/>
-			</p>
-				</br>
-			<p class='text-center' style='font-family: "PT Mono"; color:#000; background-color:#eaeaea; margin:-30px 0px;padding:5%;'>
-				  <code>
+    <p class="bg-primary">
+		    Corre en cualquier sistema con un mínimo de 128KB de memoria.  				<br/>
+				En todo caso, un desfibrilador funcional en buenas condiciones.  			<br/>
+				Para los robots entre ustedes, los pointers y direcciones las pueden encontrar  <br/>
+				en la pendiente de la recta tangente para el punto medio de una curva.  <br/>
+		</p>
+		</br>
+		<p class='text-center' style='font-family: "PT Mono"; color:#000; background-color:#eaeaea; margin:-30px 0px;padding:5%;'>
+		  <code>
 				    #######################################################<br>
 				    []...................................................[]<br>
 				    []...................................................[]<br>
@@ -112,11 +112,9 @@
 				    []...................................................[]<br>
 				    []...................................................[]<br>
 				    #######################################################<br>
-					</code>
-			</p>
+			</code>
+		</p>
 		</div>
 	</div>
 </div>
-
-
 <?php include_once("php/footer.php");?>

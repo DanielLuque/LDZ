@@ -1,0 +1,150 @@
+/*
+
+ INDEX.
+
+1. General rules body, main, wrapper, article, h[i], p, div, etc .
+2. Navigation.
+3. Quotes.
+
+
+General Rules.
+
+*/
+
+
+body {
+  padding-top:0px;
+  background-color:#FEFEFE;
+}
+
+main {
+  background-color: black;
+}
+
+h1 {
+  padding-top:70px;
+}
+
+blockquote {
+  margin:0;
+}
+
+.wrapper {
+  background-color:rgba(51, 51, 51, 0.46);
+  border: solid 1px black;
+  margin:0% 10%;
+  width:80%;
+}
+
+.padder {
+  padding:30vh;
+}
+
+/*  NAVBAR  */
+
+.navbar-fixed-top {
+  background-color:#396DBB;
+  color:#E4E112;
+  font-weight: 600;
+}
+
+.navbar-default .navbar-brand {
+  color:#1CC1B5;
+  font-size: 26px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  font-size:30px;
+  color:#EAD10A;
+}
+
+/*
+
+  Title Index.
+
+*/
+
+.title {
+  font-family: 'PT Mono';
+  font-size: 3em;
+  color: #7D7D7D;
+  text-align:center;
+  margin: auto;
+  padding: 3vh;
+}
+
+.bg-primary {
+    maring:0%;
+    padding:5%;
+    text-align:center;
+    font-family:Helvetica;
+    font-size:10px;'>
+}
+
+
+/*
+
+  BLOCK
+
+*/
+
+.intro-msg {
+  padding: 10vh 0vh;
+  background-color: black;
+  color:yellow;
+  font-family: Courier;
+
+}
+
+.intro-names {
+  background-color: #2df729
+  ;
+}
+
+
+.paragraf-00{
+  margin: 5vh 0vh;
+  color:#f3f3f3;
+}
+
+
+/*
+
+ Quotes
+
+*/
+
+.quote-zoroastro {
+    background-color:#FFBEBE;
+    color:#A20808;
+    padding:5vh;
+}
+
+.quote-vishnu {
+    background-color:#E4F6D9;
+    padding:5vh;
+}
+
+.quote-laoTse {
+    background-color:#FFE9B4;
+    padding:5vh;
+}
+
+.quote-siddhartha {
+    background-color:#96D2E3;
+    color:#fff;
+    padding:5vh;
+}
+
+/*  MEDIA QUERIES MOBILE */
+@media (max-width: 768px) {
+  .wrapper {
+    margin:0px;
+    padding:10px;
+    width:100%;
+  }
+  .padder {
+    margin:0px;
+    padding:10px;
+  }
+}

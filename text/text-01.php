@@ -119,7 +119,11 @@ WHILE resources() = 0:
     DO extract();
     PRINT extract-report;
 PIRANHA
+<<<<<<< HEAD
 Protocolo Internacional de Recursos Algorithmicos para la Normalizacion Humana Absoluta
+=======
+Protocolo Internacional de Recursos Algorithmicos Normalizacion de la
+>>>>>>> cda526645914d341ce5d68809fcd5da7fa85cd48
 <br><br>
 En el año 2005 de la era cristiana el Doctor Kairu se dió cuenta del problema
 de las guerras, se encerró en su biblioteca por 10 años y comenzó a compilar

@@ -24,6 +24,7 @@
 <!-- ./INTRO MESSAGE -->
 
 <!--  PARAGRAF 00   -->
+
   <div class='paragraf-00'>
     <p>La presuntuosa bola se mov&iacute;a con la
       gracia de una anciana bailarina,</p>
@@ -36,7 +37,8 @@
     <p>hizo un&nbsp;movimiento extraño que hasta el momento no hab&iacute;a hecho,</p>
     <p>entrando en una nueva y singular configuraci&oacute;n.</p>
   </div>
-<!--  0   -->
+
+<!-- P 00   -->
 
   <div class='paragraf-00'>
     <p class='text-justify'>
@@ -59,14 +61,14 @@
       <hr /><hr />
       <p><br /><br />Los Cuatro Esp&iacute;ritus o Formas Primitivas,
         tambi&eacute;n conocidas bajo los nombres de</p>
-    </div>    
+    </div>
       <!--  INTRO NAMES -->
 
       <div class='intro-names'>
-        <span style='font-family:Helvetica'>Siddhartha</span>
-        <span style='font-family: Arial'>Lao Ts&eacute;</span>
-        <span style='font-family: Georgia'>Zoroastro</span> &
-        <span style='font-family: Verdana'>Vishn&uacute;</span>
+        <span class='name-SH'>Siddhartha</span>
+        <span class='name-LT'>Lao Ts&eacute;</span>
+        <span class='name-ZA'>Zoroastro</span>
+        <span class='name-VH'>Vishn&uacute;</span>
       </div>
 
       <!--  ./INTRO NAMES -->
@@ -149,7 +151,7 @@
     </p>
 
     <!-- DIALOGUE 01 -->
-        <blockquote class='quote-vishnu'>
+        <div class='quote-vishnu'>
           <footer>
                Aquel quien respondía al nombre de Vishnú, <br>
                el más atento de los cuatro, <br>
@@ -160,8 +162,8 @@
                  Lo mejor será arrojarla en el espacio <br />
                  para que no contaminea los demas.<br />
           </p>
-        </blockquote>
-        <blockquote class='quote-laoTse'>
+        </div>
+        <div class='quote-laoTse'>
             <p>
              “Si el primer motor ha traído esto hasta aquí no ha sido por
              <em>casualidad</em> sino por <em>causalidad</em>“.
@@ -173,13 +175,9 @@
                 </p>
 
             </footer>
-        </blockquote>
-        <br>
-        <br>
+        </div>
         <img class='img-responsive col-sm-12'
         src='http://blogfiles.wfmu.org/KF/2015/11/25/satanic_somersault_TOO_BIG.gif'/>
-        <br>
-        <br>
         <p class='text-justify'>
             <br>
             <br>

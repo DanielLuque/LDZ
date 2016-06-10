@@ -1,6 +1,5 @@
 <div class="wrapper">
   <div class="padder">
-    <h1>hello world</h1>
     <div id='chapter-00'>
     	<p style='font-family: "PT Mono";text-align:center; color:#111;'>
 

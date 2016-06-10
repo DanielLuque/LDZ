@@ -1,16 +1,13 @@
 <?php include('../php/header.php');?>
 <?php include('../php/nav.php');?>
-<<<<<<< HEAD
+
 <div class = "container">
   <div class="row">
     <div class="col-xs-10 col-offset-xs-1">
       <h1 class = "title">EL ORIGEN DE TODOS LOS MALES.</h1>
-=======
 
-<div class = "container">
-<div class="row">
-<div class="col-xs-10 col-offset-xs-1">
-<h1 class = "title">EL ORIGEN DE TODOS LOS MALES.</h1>
+
+
 <br><br>
 --EL DIABLO VENDRÁ, DISFRAZADO DE LEGISLADOR, Y TRATARé DE ENGÑARNOS--.
 >>>>>>> cda526645914d341ce5d68809fcd5da7fa85cd48
@@ -161,10 +158,6 @@ Por qué hay tantas preguntas?
 Y si no hubieran dudas?
 la pregunta es el origen del problema y de la solución.
 <br><br>
-<<<<<<< HEAD
-=======
-
->>>>>>> cda526645914d341ce5d68809fcd5da7fa85cd48
 Martin empezo a estudiar y desarrollo la teoría del ANHA como tesis de grado.
 <br><br>
 Matia Hohner, mi hermano de alma.
@@ -231,7 +224,5 @@ lo hacía confiable y su nerviosismo algo carismático.
 </div>
 </div>
 </div>
-<<<<<<< HEAD
+
 <?php include_once('../php/footer.php')?>
-=======
->>>>>>> cda526645914d341ce5d68809fcd5da7fa85cd48

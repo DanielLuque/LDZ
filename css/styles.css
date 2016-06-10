@@ -11,14 +11,13 @@ General Rules.
 
 */
 
-
 body {
   padding-top:0px;
   background-color:#FEFEFE;
 }
 
 main {
-  background-color: black;
+  background-color: #FEFEFE;
 }
 
 h1 {
@@ -27,6 +26,21 @@ h1 {
 
 blockquote {
   margin:0;
+}
+
+footer {
+  display:block;
+  heigth: 5em;
+  background-color: yellow;
+}
+
+footer li{
+  float:left;
+  background-color: red;
+  width:25%;
+  height:3em;
+  list-style: none;
+  text-align:center;
 }
 
 .wrapper {
@@ -100,9 +114,34 @@ blockquote {
   background-color: #2df729
   ;
 }
+.name-SH{
+  font-family: Helvetica;
+  font-size:3em;
+  height:5em;
+}
+.name-LT{
+  font-family: Verdana;
+  font-size:3em;
+  height:5em;
+}
+.name-ZA{
+  font-family: Courier;
+  font-size:3em;
+  height:5em;
+}
+.name-VH{
+  font-family: Helvetica;
+  font-size:3em;
+  height:5em;
+}
 
+.chapter-00 {
+  font-family: "PT Mono";
+  text-align: center;
+  color: #111;
+}
 
-.paragraf-00{
+.paragraf-00 {
   margin: 5vh 0vh;
   color:#f3f3f3;
 }
@@ -147,4 +186,9 @@ blockquote {
     margin:0px;
     padding:10px;
   }
+
+.portada-boca{
+  display:none;
+}
+
 }

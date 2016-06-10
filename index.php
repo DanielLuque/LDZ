@@ -12,7 +12,7 @@
 
 	<div class='container'>
 			<div class='col-sm-12'>
-				<div class='col-xs-offset-3 ui-widget-content' id="draggable">
+				<div class='col-xs-offset-0 ui-widget-content' id="draggable">
 		        <h1>Las Lecciones del Doctor Zoroastro<br />
 		           <small>o cómo mantener el ritmo sin metrónomo.</small>
 		        </h1>
@@ -24,16 +24,22 @@
 							INDEX.
 					</div>
 				</div>
+        <p class="bg-primary">
+            Corre en cualquier sistema con un mínimo de 128KB de memoria.  				<br/>
+            En todo caso, un desfibrilador funcional en buenas condiciones.  			<br/>
+            Para los robots entre ustedes, los pointers y direcciones las pueden encontrar  <br/>
+            en la pendiente de la recta tangente para el punto medio de una curva.  <br/>
+        </p>
 			</div>
 			<!-- PORTADA -->
-		<div class="col-xs-offset-3">
+		<div class="col-xs-10  col-lg-offset-2 portada-boca">
 			<img src="images/mouth.png" class="responsive col-xs-8"/>
 		</div>
 	</div>
   <!-- GRID! -->
-	<div class="container col-xs-offset-3">
+	<div class="container col-lg-offset-2">
 			<div class="row ">
-			  <div class="col-sm-3">
+			  <div class="col-xs-12 col-sm-3">
 				  <div id='thumb-ldz' class="thumbnail">
 						<div class="caption">
 							<h6>LAS LECCIONES DEL DOCTOR ZOROASTRO <br><small>O CÓMO MANTENER EL RITMO SIN METRONOMO</small> </h6>
@@ -43,7 +49,7 @@
 					</div>
 				</div>
 			</div>
-			  <div class="col-sm-3">
+			  <div class="col-xs-12 col-sm-3">
 			    <div class="thumbnail">
 						<div class="caption">
 							<h6>LA RISA DE VISHNÙ EL DESTRUCTOR <br><small>O QUEDARSE DORMIDO EN MEDIO DE UNA CONVERSACIÓN.</small></h6>
@@ -55,7 +61,7 @@
 			  </div>
 			</div>
 			<div class="row">
-				<div class="col-sm-3">
+				<div class="col-xs-12 col-sm-3">
 					<div class="thumbnail">
 						<div class="caption">
 							<h6>LA VENGANZA DE SIDDHARTHA BORRACHO <br> <small>O SOBRE LA ESTUPIDEZ ARTIFICIAL.</small></h6>
@@ -65,7 +71,7 @@
 						</a>
 					</div>
 				</div>
-				<div class="col-sm-3">
+				<div class="col-xs-12 col-sm-3">
 					<div class="thumbnail">
 						<div class="caption">
 							<h6>LOS ERRORES DEL MAESTRO LAO-TSE <br><small>O ENTRE EL VAPOR DE HIERRO Y LA BOMBA DE SODIO-POTASIO.</small></h6>
@@ -95,25 +101,6 @@
 
    </script>
 
-    <p class="bg-primary">
-		    Corre en cualquier sistema con un mínimo de 128KB de memoria.  				<br/>
-				En todo caso, un desfibrilador funcional en buenas condiciones.  			<br/>
-				Para los robots entre ustedes, los pointers y direcciones las pueden encontrar  <br/>
-				en la pendiente de la recta tangente para el punto medio de una curva.  <br/>
-		</p>
-		</br>
-		<p class='text-center' style='font-family: "PT Mono"; color:#000; background-color:#eaeaea; margin:-30px 0px;padding:5%;'>
-		  <code>
-				    #######################################################<br>
-				    []...................................................[]<br>
-				    []...................................................[]<br>
-				    [].......-VV....as in................................[]<br>
-				    []........VERY VERBOSE...............................[]<br>
-				    []...................................................[]<br>
-				    []...................................................[]<br>
-				    #######################################################<br>
-			</code>
-		</p>
 		</div>
 	</div>
 </div>

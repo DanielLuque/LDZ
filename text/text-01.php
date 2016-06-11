@@ -1,216 +1,94 @@
 <?php include('../php/header.php');?>
 <?php include('../php/nav.php');?>
-<div class="wrapper">
-  <div class="padder">
-<br><br>
-<div class="title">
-- 1789 - 2015 -
+<div class ="wrapper">
+  <div class ="padder">
+    <div class="col-xs-10 col-offset-xs-1">
+          <h1><strong>EL ORIGEN DE TODOS LOS MALES.</strong></h1>
+          <p>  <em>  "EL DIABLO VENDR&Aacute;, DISFRAZADO DE LEGISLADOR, Y TRATAR&Aacute; DE ENGA&Ntilde;ARNOS." </em></p>
+          <p>  &ldquo;El dinero est&aacute; sobre la mesa"- Le dijo su madre - &ldquo;Ya se lo he dicho tus hermanos pero tu
+            tambi&eacute;n tienes que aprender a hacer la compra". </p>
+          <p>  Le refrane&oacute;, por en&eacute;sima vez, d&aacute;ndole la espalda en la cocina, mientras lavaba los platos
+            y terminaba de peinarse para salir a una cita de trabajo. </p>
+          <p>  &ldquo;Ya lo s&eacute;, mam&aacute;&rdquo; - repondi&oacute; Mat&iacute;a sin despegarse del libro de
+            astronom&iacute;a que hab&iacute;a empezado a leer aquella ma&ntilde;ana. A diferencia de otros ni&ntilde;os,
+            que  <em>  necesitaban </em>   saber c&oacute;mo robarse las latas de gaseosa en las m&aacute;quinas de la escuela,
+            Mart&iacute;n  <em>  necesitaba </em>   saber c&oacute;mo se med&iacute;an las &oacute;rbitas de los planetas
+            con un telescopio.  </p>
+          <p>  &ldquo;Mart&iacute;n"- su madre se gir&oacute; y le cerr&oacute; el libro que ten&iacute;a entre las manos
+            - &ldquo;S&eacute; que es muy importante para t&iacute; lo que est&aacute;s leyendo, pero necesito que te concentres
+            en la compra y prestes toda tu atenci&oacute;n". </p>
+          <p>  &ldquo;&iexcl;Lo s&eacute;, mam&aacute;! No creo que sea muy dif&iacute;cil ir a hacer la compra."
+            -Respondi&oacute; Mart&iacute;n con rebeld&iacute;a, aunque no se fue sin recibir un beso de despedida,
+            sali&oacute; de la cocina y esper&oacute; sentado a sus hermanos frente la puerta principal de la casa.
+          </p>
+          <p>  Se escuchaban c&oacute;mo retumbaban los pasos de sus hermanos mayores bajando por la escalera. </p>
+          <p>  &ldquo;Mam&aacute; ha dicho que vengas, corre"- dijo su hermano mayor d&aacute;ndole una palmada en el
+            cuello,&ldquo;&iexcl;Que hoy hay desfile!"  </p>
+          <p>  Mart&iacute;n sali&oacute; corriendo detr&aacute;s de su hermano, pero aquel, siendo m&aacute;s alto y
+            teniendo las piernas m&aacute;s largas, le perdi&oacute; en la carrera. </p>
+          <p>  Al darse cuenta de la imposibilidad de ganar, cruz&oacute; la calle para tomar un atajo y se tropez&oacute;
+            con una pared de gente. </p>
+          <p>  Una multitud se hab&iacute;a reun&iacute;do en esa parte de la calle y le imped&iacute;a cruzar.  </p>
+          <p>  Por un instante se preocup&oacute; al haber perdido de vista a sus hermanos y &nbsp;por el eventual
+            rega&ntilde;o que recibir&iacute;a en casa si lo supieran, pues aun no le era permitido andar solo por la calle,
+            sin embargo, su insaciable curiosidad lo empuj&oacute; a investigar lo que suced&iacute;a. </p>
+          <p>  Se dirigi&oacute; aun muchacho de mas o menos su edad que estaba mirando el desfile.  </p>
+          <p>  &ldquo;Disculpe, &iquest;Sabe cu&aacute;ndo cuando vuelven abrir la calle?&rdquo; </p>
+          <p>  El tipo. tan alto como sus hermanos mayores, lo mir&oacute; y le dijo &ldquo;La calle va a estar cerrada
+            hoy todo el d&iacute;a" </p>
+          <p>  Mart&iacute;n se impaciento, pues no quer&iacute;a recibir problemas en casa y sab&iacute;a que sus
+            hermanos lo delatar&iacute;an a la m&aacute;s m&iacute;nima. &ldquo;&iquest;A qu&eacute; te refieres van
+            a cerrar todo el d&iacute;a? No pueden hacerlo".  </p>
+          <p>  A su interlocutor le pareci&oacute; graciosa la ingenuidad de la pregunta. </p>
+          <p>  Le respondido con simpat&iacute;a: </p>
+          <p>  &ldquo;El gobernador es el mism&iacute;simo Dios de la tierra todo poderoso, que todo lo sabe, todo lo
+            puede, y el que consigue estar con todas las chicas!. Algunos dicen que puede volar, y otros dicen que
+            orina colonia"  </p>
+          <p>  &ldquo;Que no te vayan a oir porque te pueden crucificar!-  </p>
+          <p>  A Martin le di&oacute; risa el comentario y pregunt&oacute; de nuevo al extra&ntilde;o. </p>
+          <p>  Pues la curiosidad se paga con ingenuidad o la ingenuidad es el precio de la curiosidad: </p>
+          <p>  &ldquo;&iquest;Por qu&eacute; es tan importante el gobernador?" </p>
+          <p>  No es que no supiera cuales eran las funciones y los poderes del gobernador, pues ya habia le&iacute;do
+            sobre la constituci&oacute;n, las leyes del departamento y probablemente lo conocia mejor que el
+            gobernador y sus asesores.  </p>
+          <p>  Tampoco era ignorante de los sucios y limpios negocios privados del gobernador. Porque le&iacute;a
+            varios diarios al d&iacute;a.  </p>
+          <p>  La pregunta era una autenitica peticion agonica por saber si existia algo que no supiera ya.  </p>
+          <p>  &ldquo; &iquest;Por que es pues tan importante el gobernador?" </p>
+          <p>  "Vea, la repuesta es sencilla:" </p>
+          <p>  Le respondio quien le hablaba, cuyo nombre era Mat&iacute;a, &nbsp;tenia una camiseta negra y unos
+            zapatos blancos. sobre su cuello colgaba una cadena de oro.  </p>
+          <p>  &ldquo;El tipo cura ciegos, convierte agua en vino, no se habla mal de el, es amigo de todos,
+            puede hacerlo desaparecer o puede hacerlo aparecer en todos los noticieros. Si usted logra ser amigo
+            de &eacute;l, ya tiene la vida asegurada, y si se lo gana de enemigo, la tiene perdida".  </p>
+          <p>  Asi se quedaron hablando, Martin y Matia durante toda la tarde.  </p>
+          <p>  Tiempo despu&eacute;s entraron al la U.  </p>
+          <p>  A una tierna edad ya era una gran autoridad en Historia, Filosof&iacute;a, Pol&iacute;tica y F&iacute;sica.  </p>
+          <p>  Pero tal poder no era estable. </p>
+          <p>  Martin conoci&oacute; a Uma en la clase junto a otros compa&ntilde;eros se hicieron amigos
+            porque ambos eran muy &ntilde;o&ntilde;os. estaban pendientes de las clases. Uma para no meterse
+            en problemas y Martin para preguntarle a los profesores.  </p>
+          <p>  Primero se encontraron en clase, luego se encontraron esperando a un profesor y ah&iacute; se
+             hicieron amigos porque iban a ir a un concierto de rock juntos.  </p>
+          <p>  Martin entonces habl&oacute; con Matia sobre el concierto y le presento a Uma.  </p>
+          <p>  Matia se enamoro de Uma en el concierto.  </p>
+          <p>  En la cafeteria hablando del concierto ya Martin se estaba volviendo a emocionar sobre una
+            conversaci&oacute;n acerca de estadistica.  </p>
+          <p>  En ese momento llego Bazi a entregarle una cosa a Matia porque estaban trabajando juntos
+            y ahi qued&oacute; listo Martin: Perdidamente. Lo &uacute;nico que hay que apuntar en la
+            fr&aacute;gil memoria es que el estado de &aacute;nimo es pasajero y no dura m&aacute;s de
+            diez minutos. El mundo cuando &eacute;ramos peces y perd&iacute;amos todo cada diez segundos para
+            luego ganarlo todo nuevamente. Cuando por la ma&ntilde;ana lo entend&iacute;amos todo porque por
+            la tarde hab&iacute;a que olvidarlo.  </p>
+          <p>  Hizo un intento de amague de aproximaci&oacute;n, aun siendo estando dedicado a la ciencia, y
+            lo que descubri&oacute; fue que la chica estaba enamorada de un tal Ado el socialista y sinti&oacute; celos.  </p>
+          <p>  Los celos m&aacute;s primitivos del mundo le llevaron, como siempre sucede, a intentar ser
+            lo que no se es, cambi&oacute; su tesis de grado de teor&iacute;a matem&aacute;tica &nbsp;por la
+            teor&iacute;a del ANHA con la ingenua intenci&oacute;n y el maldito sue&ntilde;o de que Bazi,
+            alg&uacute;n d&iacute;a, se fijara en &eacute;l. <br /><br /></p>
+          <p>&nbsp;</p>
+        </div>
+  </div>
 </div>
 
-        Simplemente narrado.
-<br><br>
-En el año 1789 de la era cristiana, durante la revolución francesa, se puso en
-marcha en la historia documentada por primera vez la única idea que hasta ese
-entonces había desarrollado el modelo social, haciéndolo evolucionar a una etapa
-más sofisticada: La abolición de clases y el sistema jurídico legal democrático.
-<br><br>
-La Historia. En el año 1990 de la era cristiana se disolvía la Unión Soviética
-formalmente, poniendo fin a años de farsa que los medios de comunicación usaban
-para justificar siempre sus posturas institucionales, como siempre el ruido fue
-estruendoso y todos los periódicos y parlantes de la tierra anunciaban un nuevo
-comienzo, una nueva era de nuevos valores por descubrir. NIHIL NOVUM SUB SOLEM.
-Nada nuevo hay bajo el cielo.
-<br><br>
-No era la primera vez que caía un estado o que se desmembraba un macroimperio,
-ni sería la última. No era la primera vez que se hablaba de un nuevo mundo, pero
-la generación competente así lo creyó y de ello se apropió, preparando el mundo
-para la próxima hecatombe mediante la clásica -¦-¦.. carrera armamentista.
-<br><br>
-Ya desde tiempos antiguos muy antiguos se conoce la guerra, se puede decir que
-la guerra es tan antigua como la prostitución, el hambre o la vanidad.
-Están con nosotros desde el momento en que descubrimos la manera de medir el tiempo,
-la manera de pensar, la manera de fabricar herramientas, la manera de dominar el
-mundo, la manera de empezar a ser lo que somos.
-<br><br>
-EPPUR SI MUOVE.
-<br><br>
-Lo que muchos todavía defienden como un triunfo político logrado por la tenacidad,
-la destreza y agudeza política de los pensadores y representantes de la época no
-fue otra cosa que la natural consecuencia del desarrollo técnico que venían
-avanzando los científicos naturales en contra de los políticos de la iglesia
-cristiana en esa Europa que reinaba en un vulgar momento expansionista.
-<br><br>
-Y es que el descubrimiento de América, empezó a desencadenar muchos eventos en
-ese hilo de la historia que llevaban los europeos y que dejaron de herencia
-tanto al nuevo continente, como a éfrica y Asia con su proceso colonial y su
-dominio económico.
-<br><br>
-Fue el descubrimiento de América no precisamente una elaboración retórica de un
-hábil orador, no fue una mezcla de ideologías en un cálculo de oportunismo. No
-fue la alianza de herencias dirigidas a una meta común. No fue política.
-Fue desarrollo tecnológico lo que permitió lograrlo.
-<br><br>
-La política solamente puso trabas y problemas en ese pedazo de historia.
-La política repartió Sudamérica a españoles y portugueses con su inherente
-injusticia y posteriores conflictos. La política dictó el estatus de los
-indígenas y los mandatos poblacionales. Los recién llegados no fueron en manada
-a los templos aztecas, mayas o incas para aprender de sus estudios en astronomía,
-hidráulica o matemáticas. Los recién llegados llegaron a construir iglesias
-porque así lo mandaba la política de ese momento.
-<br><br>
-La técnica va por otro camino, por un camino más humano, más pacífico, más creador.
-Un camino como el que descubrió Gutenberg al inventar el proceso de impresión.
-Con el que se dió acceso a la población a la escritura, no pudiendo prever que
-los lectores iban a revelarse contra la política y separarse del vaticano.
-Como el de Linus Torvalds al distribuir el Kernel de Linux a la humanidad,
-tampoco pudiendo prever su implementación por Google para diseñar Android y dar
-acceso a tres mil millones de personas a casi todo el conocimiento humano.
-<br><br>
-Los científicos son los verdaderos revolucionarios. Los que avanzan en primera fila
-hacia lo desconocido, hacia lo nuevo, mientras la rancia política en su inherente
-imperfección lo único que hace es retrasarla, ponerle trabas, juzgarla y quemarla,
-como hicieran con el gran Galileo.
-<br><br>
-Con el Galileo que me imagino siendo valiente entre los cobardes y aceptando que es la
-tierra la que se mueve alrededor del sol y no al revés.
-<br><br>
-Pero creíamos que el mundo era nuevo porque nosotros éramos nuevos en el mundo.
-<br><br>
-En una primera lectura, el Dr. Kairu pensaba que las guerras eran exclusivamente un
-factor económico y esta era su lectura:
-<br><br>
-Las guerras se producen por un conflicto de dos ideologías económicas, ambas coherentes
-y válidas, y ambas excluyentes entre sí. Entre los capitalistas y los comunistas, entre
-los que creen que el pan hay que ganárselo uno solo y los que creen que el pan lo tienen
-que ganar todos por igual. Entre los que tienen mucho y los que tienen poco, entre los
-que tienen mucho y los que quieren más. Todos los materiales de la tierra, todas sus
-plantas, minerales y animales. Todo lo que hay hasta donde alcance la vista.
-<br><br>
-Cómo se puede reducir la política a la retórica.
-Y cómo se pueden luchar (y ganar) cualquier argumentación:
-<br><br>
-
-Supongamos la estructura de una república democrática o de una democracia parlamentaria
-o representativa.
-<br><br>
-
-Son los militares seres absoluta y radicalmente irracionales, porque ellos viven por
-y para  “el enemigo ¡-. El enemigo es su razón de ser y de existencia.
-<br><br>
-Del  “enemigo ¡- no se saben muchas cosas. Puede ser cualquiera. Es misterioso, esquivo,
-oculto, extraño, es imposible de describir a ciencia cierta. Lo único que se sabe del
-"enemigo" es que con los enemigos no se puede razonar.
-<br><br>
-
-
--EL ALGORITMO ABSOLUTO.-
-<br><br>
-DEFINE resources
-DEFINE resources_typ
-DEFINE meassures_typ
-DEFINE meassures
-DEFINE meassures-agent
-DEFINE meassures-method
-<br><br>
-GET resources();
-<br><br>
-DEFINE proyect-i
-WHILE resources() = 0:
-    DO extract();
-    PRINT extract-report;
-PIRANHA
-<<<<<<< HEAD
-Protocolo Internacional de Recursos Algorithmicos para la Normalizacion Humana Absoluta
-=======
-Protocolo Internacional de Recursos Algorithmicos Normalizacion de la
->>>>>>> cda526645914d341ce5d68809fcd5da7fa85cd48
-<br><br>
-En el año 2005 de la era cristiana el Doctor Kairu se dió cuenta del problema
-de las guerras, se encerró en su biblioteca por 10 años y comenzó a compilar
-datos, a hacer operaciones estadísticas, a forzar su mente a comprender el
-concepto más profundo pero sobretodo a hallar una solución que pusiera fin de
-una vez por todas a los sufrimientos y problemas.
-<br><br>
-Fruto de su investigación plasmó en un documento un algoritmo, una serie de
-instrucciones que reflejaban todos los recursos disponibles en la humanidad y
-la manera más efectiva, óptima y precisa de aprovechar esos bienes para hacerlos
-producir bienes ad infinitum. Un sistema de máquinas e instrucciones, ordenadores,
-planes, programas, leyes, ordenanzas, directrices y demás herramientas.
-<br><br>
-En el solsticio de verano del año 2015 de la era cristiana se lo entregó a los
-políticos y a los académicos de las universidades. Los cuales hicieron lo mejor
-que pudieron para implementarlo, no sin antes acalorados debates en los
-parlamentos con alguna desaparición forzosa.
-<br><br>
-El primer año no hubo mayor movimiento en la implementación de ANHA, al menos
-no en la parte visible.
-<br><br>
-Pero si se destapaba cualquiér alcaldia o cualquier juzgado, se veía una marea
-de documentos que sepultaban rápidamente todo atisbo de ocio. ANHA había llegado
-a la burocracia como el jefe responsable y competente que siempre se ha esperado
-desde que se inventaron las oficinas, la copia del protocolo tenía un total de
-10.000 páginas. Estaba diseñado para ser implementado localmente, entonces lo
-que hacían las personas para implementarlo fue descargar la información de la
-clasificación de suelo.
-<br><br>
-La calificación del suelo, técnicamente conocida como éndice de localización de
-recursos minerales, biológicos y humanos, surgió de una primera reunión que
-hicieron los políticos en la ONU para la creación de un banco de datos científico
-de todo lo que se tenía a la mano. Entonces crearon esta situación para desplegarla
-más adelante con lo que se tuviera.
-<br><br>
-Lo primero en localizar fueron los minerales. Una detallada descripción de las
-minas de la tierra: Minas de oro, carbón, petróleo (pozos), diamantes, cobre,
-platino, plata, cobalto, aluminio, hierro.
-<br><br>
-Con esta primera clasificación de suelos, cada departamento administrativo tenía
-la labor de programar su primera célula que estaría conectada a otras células y
-se harían mantenimiento unas a otras.
-<br><br>
-Durante 12 años se habla de progreso y la humanidad se mueve a lo que por ese
-entonces se denominaba  “desarrollo sostenible ¡-.
-<br><br>
-Así fue por algún tiempo y las grandes obras de arte que vemos en el museo  “Sobredosis
-¡- pertenecen precisamente a esa generación que no conoció el dolor, generación feliz
-que bailaba en fiestas y a carcajadas, generación que se amaba y que produjo una
-abundante y hermosa cantidad de obras de arte que nos han alimentado, mantenido con
-vida y sobretodo dado esperanzas en los posteriores momentos no tan hermosos, no tan
-lucidos, los momentos oscuros.
-<br><br>
-Los momentos oscuros llegaron como siempre, sin avisar. Como ese cansancio de domingo
-por la tarde en el que estábamos sentados sin nada que decir en un café en la calle.
-<br><br>
-En la terraza.
-<br><br>
-Nunca entre nosotros un silencio había sido incómodo hasta que justamente ese día en
-que no debía pensar en nada me dió por pensar, de esa manera gratuita e inocente en la
-que opera la curiosidad, sobre la incomodidad de los silencios.
-<br><br>
-Te miré y te imagine ajena, me imaginé que otro te haría reír como te hago reír yo y
-que perdería tu sonrisa.   ¿Por qué tuve este pensamiento? Muchas de mis largas noches
-de amarga soledad he pensado en la respuesta a esta pregunta y no he encontrado respuesta.
-<br><br>
-Quiero decir, que es totalmente normal y natural ser curiosos,   ¿por qué no pensarlo?
-Había pensado y vivido muchas otras cosas más improbables que un simple engaño.   ¿Por
-qué no habría de pensarlo? No quiero decir que fuera a tomar como dogma y como hecho
-que te iba a perder, simplemente tomaba en consideración una posible y totalmente
-racional variable del curso de las cosas que sería precisamente que llegara un
-desconocido y te hiciera sonreír.
-<br><br>
-Nunca antes un silencio entre nosotros había sido incómodo hasta que esa pregunta,
-ese pensamiento de plateadas alas se posó sobre mí, yo sin llamarlo, yo sin verlo venir.
-<br><br>
-En ese momento el frágil sol de la tarde de domingo se empezó a apagar y llegó la
-oscuridad a mi corazón.
-<br><br>
-Así mismo llegó la oscuridad a la humanidad. Las felices y alegres generaciones llegaron
-casi todas a la redención y fue así durante bastante tiempo. Hasta que la misma naturaleza
-racional de los seres humanos hizo pensar que una redención era diferente a la otra.
-Si había habido diferentes religiones quería decir que las personas no eran iguales sino
-diferentes. Que los hombres no eran iguales a las mujeres y que los niños no eran iguales a los ancianos.
-<br><br>
-Y con esto empezó a volver a llover...
-<br><br>
-</div>
-</div>
-<?php include_once('../php/footer.php'); ?>
+<?php include_once('../php/footer.php')?>

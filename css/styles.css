@@ -72,11 +72,7 @@ footer li{
   color:#EAD10A;
 }
 
-/*
-
-  Title Index.
-
-*/
+/*  Title Index. */
 
 .title {
   font-family: 'PT Mono';
@@ -96,11 +92,7 @@ footer li{
 }
 
 
-/*
-
-  BLOCK
-
-*/
+/*  BLOCK  */
 
 .intro-msg {
   padding: 10vh 0vh;
@@ -190,5 +182,14 @@ footer li{
 .portada-boca{
   display:none;
 }
+
+}
+
+
+@media (max-width: 767px){
+
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+      color: #FFF;
+  }
 
 }

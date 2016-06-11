@@ -107,14 +107,8 @@ oferta y la demanda.</p>
 
 <p>Es que yo eso lo huelo como los perros.</p>
 
-<p>&nbsp;&ldquo;Lucius solo es fuerte cuando est&aacute; escondido y sabe esconderse muy bien &iexcl;-.</p>
-
 <p>&nbsp; &iquest;Crees que el otro es mejor? &nbsp; &iquest;Qui&eacute;n inici&oacute; toda esta competencia?<br />
 &nbsp; &iexcl;Qu&eacute; mal nos has dise&ntilde;ado, Dios borracho, sin duda lo que no te falt&oacute; fue humor!-.</p>
-
-<p>Nunca cuestiones a Dios.</p>
-
-<p>No lo estoy cuestionando.</p>
 
 <p>&nbsp;&ldquo;Dar pinceladas de justicia a la luz de la belleza de una pregunta sin respuesta.<br />
 &nbsp;Un absurdo. Un anonimato.</p>
@@ -124,6 +118,19 @@ a contar las gotas de las lluvias.</p>
 
 <p>&iquest;Qu&eacute; pod&iacute;an hacer, pues, si s&oacute;lo ten&iacute;an la imagen del mundo y una melod&iacute;a que<br />
 hablaba por todos nosotros?</p>
+
+
+Negociaciones de aburrimiento entre veteranos.
+Eso conversaban las cadenas de estrellas.
+“Es que a mí me cansa mucho descansar para evitar la fatiga"
+"Nosotros. Ellos. Somos los padres de los hijos que son mayores que nosotros. Cuando llegamos al mundo ellos ya estaban allí desde el inicio de los tiempos."
+Me parecen bonitas estas preguntas sin respuestas porque hacen volar a la imaginación. ¿Y si nos imaginamos el mundo todo otra vez? La suerte se me caía de los bolsillos, pero más tarde logré entender la relación entre esa fatalidad y la recompensa de extraños en mi camino.
+
+Las palabras van cayendo cual gotas de cascada prolongándose en un discurso eterno. Una referencia para salirse del cuerpo de vez en cuando y verse desde afuera. Un trabajo imposible para ganarse el derecho a descansar.
+Le pusieron a elegir entre convertir el mar en un suelo plano e infinito y la capacidad de volar, pero ambas ideas le aterrorizaban tanto que decidió seguir siendo un simple mortal.
+Con sus amigos de cara sucia y manos grandes, con los que siempre podía jugar. Nunca juegos de preparación ni juegos de competencia. Siempre juegos sin reglas en una isla virgen y desierta.
+Siddhartha habia infiltrado la rev de Da Tsu, Herve.
+
 
 </div>
 </div>

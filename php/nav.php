@@ -24,9 +24,9 @@
             <li><a href='../text/text-00.php'> 00.
               _INIT_</a></li>
             <li><a href='../text/text-01.php'> 01.
-            1789 - 2015.</a></li>
-            <li><a href='../text/text-02.php'> 02.
             EL ORIGEN DE TODOS LOS MALES.</a></li>
+            <li><a href='../text/text-02.php'> 02.
+            YO ME COMPROMETO A SALIR DE MI CUERPO DE VEZ EN CUANDO.</a></li>
             <li><a href='../text/text-03.php'> 03.
             YO ME COMPROMETO A SALIR DE MI CUERPO DE VEZ EN CUANDO.</a></li>
             <li><a href='../text/text-04.php'> 04.

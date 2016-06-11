@@ -1,228 +1,337 @@
-<?php include('../php/header.php');?>
-<?php include('../php/nav.php');?>
+<?php include_once('../php/header.php'); ?>
+<?php include_once('../php/nav.php'); ?>
+<div class="wrapper">
+  <div class="padder">
 
-<div class = "container">
-  <div class="row">
-    <div class="col-xs-10 col-offset-xs-1">
-      <h1 class = "title">EL ORIGEN DE TODOS LOS MALES.</h1>
+<a href="../">Index</a>
+
+<div class='title'>
+	YO ME COMPROMETO A SALIR DE MI CUERPO DE VEZ EN CUANDO
+</div>
+
+<div class="container-fluid">
+
+Saul llegó tarde a clase. Era el típico estudiante silencioso del que se hablan
+muchas cosas y se termina creando una persona más grande de lo que en verdad es.
+
+No había dormido bien.
+Por su abuela.
+Otra vez la tos.
+
+Otra vez la tos en esa dulce anciana que era lo más imporante para Saúl en el mundo.
+Otra vez la tos y ya van tres semanas.
+
+En Septiembre su abuela Helena cumpliría 108 años, la llevaría a cenar pavo con especias
+y vino al lado del lago, en su restaurante favorito, y la escucharía narrar por
+milmillonésima vez la historia de la boda de sus padres.
+
+Sus padre tenía una tienda de zapatos y su madre daba clases a los niños pequeños.
+Habían sido asesinados por los rebeldes cuando Saúl tenía doce años.
+
+Abrió la puerda de la clase y lo esperaba Lucius en la última fila al lado de Mario,
+ lúgubre personaje, con una pila de cuadernos en las manos, en donde
+ colgaba su trabajo en equipo predestinado
+para ser entregado el mismo día.
+
+Instintivamente echó una ojeada a Marina, la risueña chica que le hacía suspirar
+(y la única que su abuela aprobaba). Y se sentó.
 
 
+ Saul se despertó temblando y sudoroso.
 
-<br><br>
---EL DIABLO VENDRÁ, DISFRAZADO DE LEGISLADOR, Y TRATARé DE ENGÑARNOS--.
->>>>>>> cda526645914d341ce5d68809fcd5da7fa85cd48
-<br><br>
-El pequeño Martin siempre se detuvo a mirar los dibujos de la pared. Sus hermanos
-mayores ya e. Sabía que los dibujos eran letras pero nunca nadie le había enseñado
-el abecedario.
-<br><br>
-Se hizo famoso, dejaba muy inquietos a sus profesores por sus habilidades.
-<br><br>
-Adiquirió gran respeto entre sus amigos por su inteligencia y por su talento
-increíble Con el solo hecho de presenciara alguien haciendo algo
-<br><br>
-A Martín le gustaba el reconocimiento y la protección que recibía pues no estaba
-en las mismas condiciones para hacer frente a los niños de su edad.
-Le gustaba poder librarse de sus deberes mucho antes que sus compañeros pero lo
-que más le gustaba era aprender. Para él aprender era un placer oscuro, obsceno,
-casi enfermizo. Mientras los demás niños salían a jugar al patio él estaba en su
-cuarto leyendo textos antigé¼os sobre imperios extintos. Cuando los demás niños
-empezaban a perseguir a las chicas él estaba en su cuarto, leyendo textos sobre
-proteínas o partículas subatómicas.
-<br><br>
-A una tierna edad ya era una gran autoridad en Historia, Filosofía, Política y Física.
-<br><br>
-Pero tal poder no era estable.
-<br><br>
-Hasta el punto en que no le importaban más las calificaciones, solamente le
-importaba aprender. Tenía una sed de conocimiento especial, como si su vida
-dependiera de ello. Pero no le gustaba hacer, hasta ahora, hasta ahora que se
-dio cuenta que lo que estaba haciendo todo este tiempo era preparándose.
-Pero decidió dejar la nostalgia aun lado.
-<br><br>
-Los superpoderes del Doctor Kairu incluían: Una memoria prodigiosa, un análisis
-agudo.
-<br><br>
- “El dinero está sobre la mesa- dijo su madre quien estaba dándole la espalda en
- la cocina mientras lavaba los platos terminaba de peinarse para salir a una cita
- de trabajo  “ya se lo he dicho tus hermanos pero tienes que ayudar-
-<br><br>
- “está bien- Matía estaba leyendo un libro de astronomía.
-<br><br>
-necesitaba saber cómo se medían las órbitas de los planetas con un telescopio.
-<br><br>
-si mamá no creo que haya mucho margen de error.
-<br><br>
- “Martín- su madre se giró y le cerró el libro que tenía entre las manos
-<br><br>
-“sé que es muy importante para ti lo que estás leyendo pero necesito que te
-concentres en lo práctico y prestes toda tu atención.-
-<br><br>
- “si mamá, lo sé respondió Martín con  rebeldía.
-<br><br>
-de todas maneras no se fue sin recibir un beso de despedida de su madre salió
-a la puerta de la casa y espero a sus hermanos.
-<br><br>
-en la puerta de la casa escuchaba como retumbaban los pasos de sus hermanos
-mayores que bajaban por la escalera hermanos eran más altos que él y más fuertes
-<br><br>
-“la mamá ha dicho que venga- corre dijo su hermano mayor dándole una palmada en
-la oreja a  “que hay desfile-!
-<br><br>
-Martín salió corriendo hermano quien corría más rápido pero que no era más listo
-cruzó un atajo de la calle y se tropezó con una pared humana. una multitud se
-había conglomerado y le impedía cruzar.  la gente estaba en sustancias más pues
-venía en el desfile ni más ni menos que el gobernador pero había perdido sus
-hermanos de vista.
-<br><br>
-por un instante se preocupó por no haber visto sus hermanos y el eventual regaño
-que recibiría de su madre cuando estos vengativos le delataran, sin embargo, su
-insaciable interés le despertó la curiosidad por saber qué estaba pasando se
-dirigió entonces aun muchacho es verdad que estaba mirando el desfile.
-<br><br>
-Y le preguntó  “disculpe sabe cuándo disculpa sabes cuando vuelven abrir la calle.-
-<br><br>
-15 dirigía un tipo tan alto como sus hermanos mayores lo miro y le dijo  “hoy no-.
-<br><br>
-Martín se impaciento  “como que hoy no que te refieres van a cerrar todo el día-.
-<br><br>
-interlocutor le pareció gracioso la ingenuidad de la pregunta y le respondido que
-“el gobernador es el mismísimo Dios de la tierra todo poderoso que orinan colonia!-
-<br><br>
- “Quw no te vayan a oir porque te pueden crucificar!-
-<br><br>
-A martin este comentetio le perecio in tanto gracioso y le volvió a preguntar
-al extraño. Pues la curiosidad se paga con ingenuidad o la ingenuidad es el
-precio de la curiosidad:  “Por qué es tan importante el gobernador?-
-<br><br>
-No es que no supiera cuales eran las funciones y los poderes del gobernador,
-pues ya habia leido sobre la constitucion, las leyes del departamento y
-probablemente lo conocia mejor de hecho que el gobernador y sus asesores.
-<br><br>
-Tampoco  era ignorante del hecho de los sucios y linpios negocios privados del
-gobernador. Porque leia varios diarios al dia.
-<br><br>
-La pregunta era una autenitica peticion agonica por saber si existia algo que no
-supiera ya.
-<br><br>
- “  ¿Por que es pues tan importante el gobernador?-
-<br><br>
-Vea la repuesta es sencilla, le respondio quien le hablaba, que tenian una
-camiseta negra y unos zapatos blancos. Ropa deportiva y llevaba un collar de oro.
-<br><br>
- “El tipo cura ciegos, convierte agua en vino.-
-<br><br>
-Asi se quedaron hablando y asi Martin y Matia se hicieron amigos.
-<br><br>
-Matía  “Señor-Harmónica ¡- Hohner y el Doctor Kairu fueron muy buenos amigos.
-Se habían pasado dos años tocando veinte horas al día el blues, el jazz, el
-flamenco, el rock, el fado, el punk, el acid y el fox-trot. Dos años y veinte
-horas al día comiendo música, ya bien en el puerto de Hamburgo que en el de Génova,
-en Barcelona como en Alghero. En Oslo y en Lisboa. En Valencia. Incluso los hay
-quienes afirman haberlos visto tocar cerca a la biblioteca de Moscú.
-<br><br>
-Yo solamente sé por fuentes fiables que se les escuchó un febrero en Estocolmo
-y un Agosto en Calabria.
-<br><br>
-Tiempo despues entraton al la U.
-<br><br>
-Martin conoció a Uma en la clase junto a otros compañeros se hicieron amigos
-porque ambos eran muy ñoños. estaban pendientes de las clases. Uma para no
-meterse en problemas y Martin para preguntarle a los profesores. Primero se
-encontraron en clase, luego se encontraron esperando a un profesor y ahí se
-hicieron amigos porque iban a ir a un concierto de rock juntos.
-<br><br>
-Martin entonces habló con Matia sobre el concierto y le presento a Uma.
-<br><br>
-Matia se enamoro de Uma en el concierto.
-<br><br>
-Matia le presentó a Bazi.
-<br><br>
-Escena:
-En la cafeteria hablando del concierto ya Martin se estaba volviendo a emocionar
-sobre una conversación acerca de estadistica.
-<br><br>
-En ese momento llego Bazi a entregarle una cosa a Matia porque estaban trabajando
-juntos y ahi quedó listo Martin: Perdidamente confundido por esta bitch.
-<br><br>
-Hizo un intento de amague de aproximación, aun siendo estando dedicado a la ciencia,
-y lo que descubrió fue que la chica estaba enamorada de un tal Ado y sintió celos.
-<br><br>
-Los celos mas primitivos del mundo entonces le dio mucha mucha rabia y siguió
-estudiando con mas rabia. Pues entonces tiene un dialogo con la soledad:
-<br><br>
-Que es mejor?
-De donde salen las preguntas??
-Por qué no hay satisfacción?
-Por qué hay tantas preguntas?
-Y si no hubieran dudas?
-la pregunta es el origen del problema y de la solución.
-<br><br>
-Martin empezo a estudiar y desarrollo la teoría del ANHA como tesis de grado.
-<br><br>
-Matia Hohner, mi hermano de alma.
-<br><br>
-Todavía recuerdo como si fuera ayer el día en que conocí a Matia.
-<br><br>
-El problema es que nos están pasando cosas que todavía no entendemos.
- “La idea es lo único que puede desviar la causa ¡-.
-<br><br>
-Bazi, la niña cámara. Mi primer amor.
-Todos los días pensando en tí.
-<br><br>
-Lo único que hay que apuntar en la frágil memoria es que el estado de ánimo es
-pasajero y no dura más de diez minutos.
-<br><br>
-El mundo cuando éramos peces y perdíamos todo cada diez segundos para luego
-ganarlo todo nuevamente. Cuando por la mañana lo entendíamos todo porque por la
-tarde había que olvidarlo.
-<br><br>
-Ado Soi, mi rival en el espejo.
-<br><br>
-Negociaciones de aburrimiento entre veteranos. Eso conversaban las cadenas de estrellas.
- “Es que a mí me cansa mucho descansar para evitar la fatiga ¡-.
-<br><br>
-"Nosotros. Ellos. Somos los padres de los hijos que son mayores que nosotros.
-Cuando llegamos al mundo ellos ya estaban allí desde el inicio de los tiempos."
-<br><br>
-Uma Hox, mi eterna compañera.
-<br><br>
-Me parecen bonitas estas preguntas sin respuestas porque hacen volar a la imaginación.
-¿Y si nos imaginamos el mundo todo otra vez?
-La suerte se me caía de los bolsillos, pero más tarde logré entender la relación
-entre esa fatalidad y la recompensa de extraños en mi camino.
-<br><br>
-Las palabras van cayendo cual gotas de cascada prolongándose en un discurso eterno.
-Una referencia para salirse del cuerpo de vez en cuando y verse desde afuera.
-Un trabajo imposible para ganarse el derecho a descansar.
-<br><br>
-Le pusieron a elegir entre convertir el mar en un suelo plano e infinito y la
-capacidad de volar, pero ambas ideas le aterrorizaban tanto que decidió seguir
-siendo un simple mortal.
-<br><br>
-Con sus amigos de cara sucia y manos grandes, con los que siempre podía jugar.
-Nunca juegos de preparación ni juegos de competencia. Siempre juegos sin reglas
-en una isla virgen y desierta.
-<br><br>
-Siddhartha habia infiltrado la rev de Da Tsu, Herve.
-<br><br>
+  Saul se despertó temblando y sudoroso.
+
+ El tenue recuerdo de su pesadilla no se borró de su cuerpo incluso cuando
+ constató que no había ninguna amenaza real y todo se trataba de un sueño.
+
+ <br>
+ <br>
+
+Toda la clase lo estaba mirando.
+ Instintivamente ojeó a Marine, la chica quien
+ todos sus companeros sabían que le gustaba
+, y se sonrojó, por enésima vez, por hacer nuevamente el ridículo.
+<br>
+ <br>
+ “Como estaba diciendo, Saul es el claro ejemplo de un cuerpo en
+ reposo que se encuentra en un estado de sueño. En el cual la consciencia
+ dirige todos los datos en la memoria y produce sueños en una combinación
+ de información y química del cerebro.
+<br>
+ <br>
+Saul, puedes recordar algo de lo que estabas soñando? “
+<br>
+ <br>
+Preguntó el profesor Kairu.
+<br>
+ <br>
+Saul estaba pálido y tenía mucha vergé¼enza.
+Quería que la tierra se lo tragara en ese momento.
+No sabía si le estaban tomando el pelo, o si su demente profesor intentaba
+llegar a algún punto concreto con la pregunta que le acababa de formular.
+<br>
+ <br>
+De todas maneras decidió callar y no decir nada,
+ pues ya sentía que había hecho el ridículo lo suficiente y no habría manera
+ de mejorar las cosas.
+<br>
+ <br>
+ “No se asuste, señor Saul, le aseguro que cuando yo era estudiante también
+ tuve que dormir en más de una clase.
+Espero que no le hayamos incomodado pero es que usted estaba gritando en el
+sueño. ¿Puede recordar algo?“
+<br>
+ <br>
+Preguntó nuevamente su profesor de **Sistemas Operativos**, el cual estaba
+loco como una cabra pero del cual nadie discutía su impresionante inteligencia.
+<br>
+ <br>
+Saul se aclaró la garganta, se sentó derecho e hizo un esfuerzo por recordar.
+ “No fue el sueño más hermoso que he tenido en mi vida, solamente recuerdo
+ que me sentía agobiado y la imagen de una motocicleta bajo el agua “.
+<br>
+ <br>
+Toda la clase soltó la usual tensión en una carcajada.
+<br>
+ <br>
+ “Motocicleta bajo el agua... “ Sonrió el Doctor Martin Kairu. Ã¢â‚¬
+Å“Muy bien, recuerda acaso si la motocicleta se encontraba de pie o
+acostada como si estuviera abandonada? “
+<br>
+ <br>
+Saul se recompuso nuevamente, era un alumno brillante aunque algo perezoso,
+pero lo apasionaba sinceramente lo que aprendía con el Profesor Kairu.
+<br>
+ <br>
+ “De hecho, yo estaba conduciendo la motocicleta “.
+<br>
+ <br>
+Nuevamente un par de risas nerviosas se dejaron escuchar entre las chicas de
+la clase.
+<br>
+ <br>
+ “Exacto. He ahí el punto de esta lección. Este ejemplo ilustra perfectamente
+ tres cualidades de los
+ sueños que nos permiten entender la inteligencia humana para desarrollar la
+ inteligencia artificial.
+ <br>
+ <br>
+Primero, la volatilidad de la memoria: Su compañero no recuerda en este caso
+más que una imagen pese haber visto en su sueño muchas imágenes.
+Recordemos que la dimensión del tiempo es interpretada en los sueños no por
+la información
+inmediata que absorbemos por los sentidos sino por los recuerdos de esa
+información, los
+cuales se van acumulando con el paso de los años.
+La volatilidad de la memoria nos indica que la memoria es siempre limitada
+por muy buena que sea,
+pues el mero ejercicio de recordar implica distorsionar en cierta medida la
+información “
+<br>
+ <br>
+ “En segundo lugar, la imposibilidad física y el surrealismo son otro síntoma
+ o cualidad del sueño.
+Lo vemos todo el tiempo en las sublimaciones artísticas y en la más alta
+poesía. Relojes que se derriten, hombres con cabeza de manzana,  “
+<br>
+ <br>
+ “En tercer lugar, la influencia del ambiente. Toda vez que somos animales
+ sociales necesitamos comunicarnos.
+La comunicación parte de la definición de conceptos comunes que nos permiten
+transmitirnos mensajes como: Ã¢â‚¬
+Å“la comida está lista “ o  “los lobos vienen, hay peligro “.
+Sabiendo que hay que definir ideas para comunicarlas y transmitirlas
+nos encontramos normalmente con otro
+síntoma que pasa desapercibido la mayor parte del tiempo:
+La definición de conceptos para la comunicación
+implica una separación o abstracción mental del objeto y su definición,
+pero esta definición no es absoluta
+sino que viene dada por el ambiente.
+<br>
+<br>
+Es por esto que las personas desarrollan
+diferentes tipos de personalidad
+cuando aprenden idiomas nuevos. Mejor dicho, para ponerlo en términos más
+sencillos lo que quiero decir es que
+la diferencia entre invención y descubrimiento no existe como tal,
+pues una invención no es más que el descubrimiento de un nuevo uso.
+<br>
+ <br>
+Lo que quiero decir con esto es que el ambiente determina la definición.
+<br>
+ <br>
+En el mundo de las matemáticas, las operaciones que realizamos sobre los
+numeros no son ajenas a la definición misma de los conjuntos de numeros
+sobre los que operamos.
+<br>
+ <br>
+En todo evento o situación social entre seres humanos hay una relación
+especial que es la conversación.
+Es una relación especial porque la conversación se construye con lenguaje
+y el lenguaje define la existencia metafísica de las personas.
+<br>
+ <br>
+La conversación es  “Acción y efecto de hablar familiarmente una o varias
+personas con otra u otras. ¡- (RAE).
+<br>
+ <br>
+A lo largo de la vida nos encontramos con muchas personas en situaciones
+muy diferentes. Esta variación de personas y circunstancias o condiciones
+hace que el contenido de
+la acción o el efecto cubra un extenso espacio en el universo imaginable.
+<br>
+ <br>
+Sin embargo, las presiones morales sobre el sujeto, causadas por una
+economía intelectual en desarrollo, van
+aumentando proporcionalmente a la altitud social en la que éste se
+desenvuelve, provocando una incuantificable
+censura sobre algunos temas de los que nos privamos en la cultura
+y, peor aún, en la estética de la conversación.
+<br>
+ <br>
+Uno de esos temas, a modo de ejemplo, es el de la práctica de algunas
+mujeres en algunos lugares de comerse la
+placenta del niño justo después del parto. Otro que puedo citar es
+el tema del debate político sobre la reducción
+de la edad de consentimiento sexual en algún país.
+<br>
+ <br>
+Son temas que normalmente afrontamos en la cena familiar.
+
+<br>
+ <br>
+En el caso de Saul, lo interesante es que en su sueño bajo el
+agua es porque su vejiga debe estar llena, la cual ha impregnado
+toda la información sobre el sueño.
+<br>
+ <br>
+Ahora ya puedes ir al baño Saul.
+<br>
+ <br>
+Saul se enrojeció y salió corriendo hacia el baño.
+Bien era cierto ques u vejiga no iba a a aguantar mucho más y que
+no quería volver a pasar más vergé¼enza ni hacer el ridículo frente a
+Marine.
+<br>
+ <br>
+ “En la próxima clase, discutiremos de manera más detallada las
+ técnicas de manejo de memoria y los tipos de definición de ambiente
+ en algunos Sistemas Operativos. Muchas gracias. “
+<br>
+ <br>
+Toda el auditorio de estudiantes comenzó a levantarse, algunos
+discutían aún lo que acababan de escuchar, muchos escépticos, otros
+auténticamente sorprendidos y asombrados.
+<br>
+ <br>
+El profesor Kairu se encontraba limpiando su escritorio para ir al
+laboratorio cuando de repente un hombre en traje oscuro se le presentó en frente.
+<br>
+ <br>
+ “Me ha encantado su lección de hoy. Pero creo que su explicación
+ sobre la definición del ambiente no ha dejado satisfecho a nadie “.
+<br>
+ <br>
+Le comentó con una sonrisa de oreja a oreja este elegante hombre a
+quien el profesor Kairu nunca había visto.
+<br>
+ <br>
+ “Gracias por la observación, mas permítame preguntarle:
+ Le puedo ayudar en algo? “.
+<br>
+ <br>
+ “Oh, si, disculpe el atrevimiento. Permítame presentarme:
+ Mi nombre es David Torkender y vengo en representación del Ministerio
+ de Economía, me gustaría invitarle a un café. “
+<br>
+ <br>
+El profesor Martin Kairu nunca ha confiado en la autoridad.
+<br>
+ <br>
+ “  ¿Cómo le puedo ayudar al Ministro de Economía?
+<br>
+ <br>
+En realidad no es solamente el ministro de economía, es todo el
+gobierno y en realidad no es todo el gobierno, es la Unión.
+El nuevo gobierno ha aprovado un programa de investiagación que
+se ha enfocado en su trabajo sobre algoritmos de optimización en
+campos agrícolas de cereales.
+<br>
+ <br>
+ “Pero por qué ahora? Ese proyecto fue mi tesis de grado, hace
+ más de 5 años. No cree que es un poco tarde? “
+<br>
+ <br>
+David miró a Martín con tristeza, suspiró y mirando al infinito
+le contestó:
+<br>
+ <br>
+ “Siempre es tarde. Los políticos también son humanos y todos
+ miramos, consciente o inconscientemente, nuestros propios
+ intereses. El nuevo gobierno no es diferente de los demás,
+ es igual de corrupto e incompetente, pero la presión que está
+ causando la hambruna en el Este está obligando a improvisar “
+<br>
+<br>
+ “¿Cual hambruna? “
+<br>
+<br>
+Obviamente los medios y el gobierno están trabajando para no
+dar más información. Desde la caída de la democracia es una
+constante. Nunca ha existido democracia, solamente dictadores
+más populares que otros. Si queremos volver a la democracia
+necesitamos su ayuda. Necesitamos combatir el ambiente,
+como usted lo diría.
+<br>
+ <br>
+“El ambiente no se puede combatir porque nosotros somos parte del mismo.
+  ¿En verdad es tan difícil de entender? “
+<br>
+ <br>
+Mire profesor, en verdad yo no tengo idea de ciencia ni de algoritmos,
+ni de matemáticas ni definiciones, pero en el Este hay gente que
+lo necesita a usted. Gente que está pasando hambre por una sequía que no han pedido.
+<br>
+ <br>
+ “  ¿Y por qué no contactan a otro científico? “
+<br>
+ <br>
+ “Porque usted es quien expuso la idea de manera más clara. “
+<br>
+ <br>
+Necesitamos que reúna su equipo de trabajo y que nos reunamos en
+el laboratorio para una conferencia con la Unión. Podemos hablar
+de su compensación. Tendrá todo el equipo necesario.
+<br>
+ <br>
+Mire si necesita ese trabajo está bien. Yo no tengo ningún problema,
+pero si en verdad quiere afrontar el problema de la sequía y
+los campos de cereales vamos a necesitar la ayuda de Uma Hox y
+no creo que esa mujer quiera volver a trabajar conmigo nunca...
+por... diferencias artísticas, por decirlo así.
+<br>
+ <br>
+No se preocupe. Ya nos encargaremos.
+<br>
+ <br>
+David se despidió de Martin y se dirigió a la puerta de salida,
+al salir del edificio, Zoroastro salió de su cuerpo y volvió volando
+para comunicar a Vishnú que su plan estaba marchando con éxito.
+<br>
+ <br>
+
 La historia de Saul B, alias colibrí.
-<br><br>
-Los padres del conservador fueron asesinados por los revolucionarios que
-intentaron un golpe de estado. Vivió con su abuela, quien le había enseñado
-el parto de la virtud por parte del hábito, en un pueblo del Sur.
-Una casa construida con mucho amor por su padre, pegada pieza por pieza
-con las lágrimas de un amor no correspondido ¡é€ž  ¶
-<br><br>
+Los padres del conservador fueron asesinados por los revolucionarios que intentaron un golpe de estado.
+Vivió con su abuela, quien le había enseñado el parto de la virtud por parte del hábito, en un pueblo del Sur.
+Una casa construida con mucho amor por su padre, pegada pieza por pieza con las lágrimas de un amor no correspondido
 Fue criado por su abuela, sus padres fueron asesinados por revolucionarios.
-Creció siendo muy nervioso y sin muchos amigos. Luego se metió al ejército para vengar
-a sus padres y casi muere de no haber sido rescatado por sus nuevos amigos,
-Lucius y Malic. Desde entonces juran tomarse el poder. Entonces cuando salen del
-ejército, Saul se mete a la política y comienza a ganar adeptos, ya que su entrega
-lo hacía confiable y su nerviosismo algo carismático.
-<br><br>
-</div>
-</div>
-</div>
+Creció siendo muy nervioso y sin muchos amigos.
+Luego se metió al ejército para vengar a sus padres y casi muere de no haber sido rescatado por sus nuevos amigos, Lucius y Malic.
+Desde entonces juran tomarse el poder. Entonces cuando salen del ejército,
+Saul se mete a la política y comienza a ganar adeptos, ya que su entrega lo hacía confiable y su nerviosismo algo carismático.
 
-<?php include_once('../php/footer.php')?>
+</div>
+</div>
+</div>
+</body>
+<?php include_once('../php/footer.php'); ?>

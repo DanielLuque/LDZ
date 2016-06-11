@@ -3,7 +3,7 @@
 
 
 <div class="wrapper">
-
+<div class="padder">
 <p class="title">DISCURSO REVOLUCIONARIO CLANDESTINO.</p>
 
 <p>SIDDHARTHA estaba entre los DElegados a la congregaci&oacute;n, en el s&oacute;tano de un bar
@@ -68,3 +68,4 @@ Se produjo el ataque.</p>
 
 <p>​</p>
 </div>
+<?php include('../php/footer.php');?>

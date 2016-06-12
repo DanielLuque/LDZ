@@ -33,7 +33,14 @@
 
     <script>tinymce.init({ selector:'textarea' });</script>
 
-
+    <script>
+      $(function() {
+        $( "#menu" ).menu();
+      });
+      </script>
+      <style>
+      .ui-menu { width: 150px; }
+      </style>
 
 
   </head>

@@ -164,40 +164,6 @@ En el mundo de las matemáticas, las operaciones que realizamos sobre los
 numeros no son ajenas a la definición misma de los conjuntos de numeros
 sobre los que operamos.
 <br>
- <br>
-En todo evento o situación social entre seres humanos hay una relación
-especial que es la conversación.
-Es una relación especial porque la conversación se construye con lenguaje
-y el lenguaje define la existencia metafísica de las personas.
-<br>
- <br>
-La conversación es  “Acción y efecto de hablar familiarmente una o varias
-personas con otra u otras. ¡- (RAE).
-<br>
- <br>
-A lo largo de la vida nos encontramos con muchas personas en situaciones
-muy diferentes. Esta variación de personas y circunstancias o condiciones
-hace que el contenido de
-la acción o el efecto cubra un extenso espacio en el universo imaginable.
-<br>
- <br>
-Sin embargo, las presiones morales sobre el sujeto, causadas por una
-economía intelectual en desarrollo, van
-aumentando proporcionalmente a la altitud social en la que éste se
-desenvuelve, provocando una incuantificable
-censura sobre algunos temas de los que nos privamos en la cultura
-y, peor aún, en la estética de la conversación.
-<br>
- <br>
-Uno de esos temas, a modo de ejemplo, es el de la práctica de algunas
-mujeres en algunos lugares de comerse la
-placenta del niño justo después del parto. Otro que puedo citar es
-el tema del debate político sobre la reducción
-de la edad de consentimiento sexual en algún país.
-<br>
- <br>
-Son temas que normalmente afrontamos en la cena familiar.
-
 <br>
  <br>
 En el caso de Saul, lo interesante es que en su sueño bajo el

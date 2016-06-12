@@ -49,6 +49,7 @@
 					</div>
 				</div>
 			</div>
+      <!--
 			  <div class="col-xs-12 col-sm-3">
 			    <div class="thumbnail">
 						<div class="caption">
@@ -81,6 +82,8 @@
 						</div>
 					</div>
 				</div>
+-->
+
 			</div>
 		</div>
 
@@ -88,9 +91,9 @@
     <div class="container">
     <script>
 			$("p").hover(function(){
-	    $(this).css("background-color", "yellow");
+	    $(this).css("background-color", "red");
 	    }, function(){
-	    $(this).css("background-color", "pink");
+	    $(this).css("background-color", "blue");
 	   });
 
   	$("#thumb-ldz").hover(function(){

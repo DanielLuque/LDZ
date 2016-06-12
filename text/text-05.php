@@ -1,10 +1,8 @@
 <?php include('../php/header.php');?>
 <?php include('../php/nav.php');?>
-<<<<<<< HEAD
+
 <div class="wrapper">
   <div class="padder">
-
-
 
     <br></br>
     <h3><a href='../'>atras</a></h3>
@@ -19,8 +17,6 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RETURN true;<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EXIT;
         </code>
-
-
         <br><br>
     </div>
     	<div class='text-justified'>
